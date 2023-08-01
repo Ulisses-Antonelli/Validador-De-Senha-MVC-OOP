@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
