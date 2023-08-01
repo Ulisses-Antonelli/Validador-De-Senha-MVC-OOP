@@ -2,6 +2,14 @@
 
 Este repositório contém um aplicativo simples de validação de senha implementado utilizando a arquitetura MVC (Model-View-Controller) e escrito em JavaScript com uma abordagem orientada a objetos. O aplicativo permite que os usuários insiram uma senha e verifiquem se ela atende a determinados critérios de segurança.
 
+## Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
 ## Arquitetura MVC
 
 O aplicativo segue o padrão arquitetural MVC (Model-View-Controller) para manter uma clara separação de responsabilidades e melhorar a organização do código. Aqui está uma breve visão geral de cada componente:
